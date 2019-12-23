@@ -13,7 +13,7 @@
     "start": "parcel serve --cache-dir test/demo/.cache -d test/demo/dist test/demo/index.html --open"
   },
   "devDependencies": {
-    "@size-limit/preset-small-lib": "2.2.1",
+    "@size-limit/preset-small-lib": "2.2.3",
     "clean-publish": "1.1.2",
     "documentation": "12.1.4",
     "eslint-config-prettier": "6.7.0",

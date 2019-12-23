@@ -13,23 +13,23 @@
     "start": "parcel serve --cache-dir test/demo/.cache -d test/demo/dist test/demo/index.html --open"
   },
   "devDependencies": {
-    "@size-limit/preset-small-lib": "^2.2.1",
-    "clean-publish": "^1.1.2",
-    "documentation": "^12.1.4",
-    "eslint-config-prettier": "^6.7.0",
-    "eslint-config-rem": "^4.0.0",
-    "eslint-plugin-jest": "^23.0.4",
-    "eslint-plugin-prettier": "^3.1.2",
-    "eslint-plugin-promise": "^4.2.1",
-    "husky": "^3.0.9",
-    "jest": "^24.9.0",
-    "lint-staged": "^9.4.3",
-    "parcel-bundler": "^1.12.4",
-    "prettier": "^1.19.1",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "storeon": "^0.9.5",
-    "xo": "^0.25.3"
+    "@size-limit/preset-small-lib": "2.2.1",
+    "clean-publish": "1.1.2",
+    "documentation": "12.1.4",
+    "eslint-config-prettier": "6.7.0",
+    "eslint-config-rem": "4.0.0",
+    "eslint-plugin-jest": "23.0.4",
+    "eslint-plugin-prettier": "3.1.2",
+    "eslint-plugin-promise": "4.2.1",
+    "husky": "3.0.9",
+    "jest": "24.9.0",
+    "lint-staged": "9.4.3",
+    "parcel-bundler": "1.12.4",
+    "prettier": "1.19.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "storeon": "0.9.5",
+    "xo": "0.25.3"
   },
   "size-limit": [
     {
@@ -63,6 +63,6 @@
     }
   },
   "dependencies": {
-    "picomatch": "^2.1.1"
+    "picomatch": "2.1.1"
   }
 }

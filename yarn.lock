@@ -9748,10 +9748,10 @@ stealthy-require@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/stealthy-require/-/stealthy-require-1.1.1.tgz#35b09875b4ff49f26a777e509b3090a3226bf24b"
 
-storeon@0.9.5:
-  version "0.9.5"
-  resolved "https://registry.yarnpkg.com/storeon/-/storeon-0.9.5.tgz#22a2c99e12bcb6d04344b91d8a984c59be0263f1"
-  integrity sha512-p0LB4TayAVROwzAS9sr0KvKip01eiRWq+Hbbo0xuCKcFXUACdZ6lQjD4aAirI9Z2gGjNsf7z1rSfmw8lC8cf0w==
+storeon@0.9.7:
+  version "0.9.7"
+  resolved "https://registry.yarnpkg.com/storeon/-/storeon-0.9.7.tgz#a7a4a0523aaa92c9a18a3dabe02ae0c533fd0a8a"
+  integrity sha512-ppqkdDXX5P7CTN2jvwshA0/fmWebPYI8ls8G4BHafLKYCNh4FAyY3Dh6+40F5uVgd/fyTCUIJeJKOaXCIFJRKQ==
 
 stream-array@^1.1.2:
   version "1.1.2"

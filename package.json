@@ -1,6 +1,6 @@
 {
   "name": "storeon-localstorage2",
-  "version": "0.6.3",
+  "version": "1.0.0",
   "description": "A fork of the original @storeon/localstorage, supports glob-pattern",
   "repository": "KsRyY/storeon-localstorage",
   "author": "Andy Chen <andy200511@126.com>",

@@ -1,3 +1,5 @@
+*Deprecated: Similar functions are already implemented in the official @storeon/localstorage package, you can continue to use this package for convinence, but it is suggested to use the @storeon/localstorage package for official support*
+
 # Storeon localStorage
 
 > This is a fork version of the original package, adding glob-pattern support.
